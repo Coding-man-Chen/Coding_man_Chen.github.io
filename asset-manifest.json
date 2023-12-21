@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coding_man_Chen.github.io/static/css/main.e80e1f0b.css",
-    "main.js": "/Coding_man_Chen.github.io/static/js/main.bd4f706c.js",
+    "main.js": "/Coding_man_Chen.github.io/static/js/main.557a37a7.js",
     "static/media/background.png": "/Coding_man_Chen.github.io/static/media/background.4d6c92df8678fb4f41c0.png",
     "static/media/background-mobile.png": "/Coding_man_Chen.github.io/static/media/background-mobile.93670393900eeee25d64.png",
     "static/media/bg-signup.jpg": "/Coding_man_Chen.github.io/static/media/bg-signup.bec2ba7098b7ca00f473.jpg",
@@ -27,10 +27,10 @@
     "static/media/logos-facebook.svg": "/Coding_man_Chen.github.io/static/media/logos-facebook.636d99abf08b3f56f5fa13748601c668.svg",
     "static/media/pencil.svg": "/Coding_man_Chen.github.io/static/media/pencil.177258577d59e301b13eb12fe99a2223.svg",
     "main.e80e1f0b.css.map": "/Coding_man_Chen.github.io/static/css/main.e80e1f0b.css.map",
-    "main.bd4f706c.js.map": "/Coding_man_Chen.github.io/static/js/main.bd4f706c.js.map"
+    "main.557a37a7.js.map": "/Coding_man_Chen.github.io/static/js/main.557a37a7.js.map"
   },
   "entrypoints": [
     "static/css/main.e80e1f0b.css",
-    "static/js/main.bd4f706c.js"
+    "static/js/main.557a37a7.js"
   ]
 }
