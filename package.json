@@ -2,7 +2,7 @@
   "name": "tum-spirit-dashboard",
   "version": "1.0.0",
   "private": true,
-  "homepage": "/sign-in",
+  "homepage": "https://Coding-man-Chen.github.io/Coding_man_Chen.github.io",
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
     "@essetwide/material-walkthrough": "^1.0.1",
@@ -32,7 +32,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "../tum-spirit-platform/node_modules/.bin/gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
